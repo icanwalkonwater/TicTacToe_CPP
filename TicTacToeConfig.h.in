@@ -1,0 +1,7 @@
+//
+// Created by lucas on 2/3/19.
+//
+
+#define TicTacToe_VERSION_MAJOR @TicTacToe_VERSION_MAJOR@
+#define TicTacToe_VERSION_MINOR @TicTacToe_VERSION_MINOR@
+#define TicTacToe_VERSION_BUILD @TicTacToe_VERSION_BUILD@
